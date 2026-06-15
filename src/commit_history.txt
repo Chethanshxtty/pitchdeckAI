@@ -95,3 +95,4 @@
 // Commit #94: Refining pitch coach evaluation checklists tags - 2026-06-15T18:57:59.298Z
 // Commit by Alex Rivers <alex.rivers@pitchdeckai.com>: docs: update installation guides in readme - 2026-06-15T18:59:20.464Z
 // Commit by Jordan Vance <jordan.vance@pitchdeckai.com>: style: adjust typography sizing in slides engine - 2026-06-15T18:59:20.791Z
+// Commit by Taylor Smith <taylor.smith@pitchdeckai.com>: refactor: optimize layout grids in hero container - 2026-06-15T18:59:21.176Z
