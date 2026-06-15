@@ -93,3 +93,4 @@
 // Commit #92: Streamlining slide indexing functions and direction move actions - 2026-06-15T18:57:58.546Z
 // Commit #93: Adjusting circular progress meters gauge boundaries - 2026-06-15T18:57:58.907Z
 // Commit #94: Refining pitch coach evaluation checklists tags - 2026-06-15T18:57:59.298Z
+// Commit by Alex Rivers <alex.rivers@pitchdeckai.com>: docs: update installation guides in readme - 2026-06-15T18:59:20.464Z
