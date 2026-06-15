@@ -99,3 +99,4 @@
 // Commit by Morgan Lee <morgan.lee@pitchdeckai.com>: fix: repair overlay backdrop z-index priority - 2026-06-15T18:59:21.502Z
 // Commit by Casey Thorne <casey.thorne@pitchdeckai.com>: perf: clean memory leaks in spline 3d react canvas - 2026-06-15T18:59:21.811Z
 // Commit by Jamie Croft <jamie.croft@pitchdeckai.com>: test: append unit tests for active slide indexing - 2026-06-15T18:59:22.235Z
+// Commit by Sam Peterson <sam.peterson@pitchdeckai.com>: feat: include export download status progress checks - 2026-06-15T18:59:22.515Z
