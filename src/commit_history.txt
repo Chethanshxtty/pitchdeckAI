@@ -96,3 +96,4 @@
 // Commit by Alex Rivers <alex.rivers@pitchdeckai.com>: docs: update installation guides in readme - 2026-06-15T18:59:20.464Z
 // Commit by Jordan Vance <jordan.vance@pitchdeckai.com>: style: adjust typography sizing in slides engine - 2026-06-15T18:59:20.791Z
 // Commit by Taylor Smith <taylor.smith@pitchdeckai.com>: refactor: optimize layout grids in hero container - 2026-06-15T18:59:21.176Z
+// Commit by Morgan Lee <morgan.lee@pitchdeckai.com>: fix: repair overlay backdrop z-index priority - 2026-06-15T18:59:21.502Z
